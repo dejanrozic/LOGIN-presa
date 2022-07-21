@@ -1,0 +1,20 @@
+þÿÿÿû###id###VisulizationRootBrowsableId###TargetIdAcknowledgementGroupText-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIdsInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomainNameStationNamePartnerNameNodeNameDisplayNameAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextCommonAlarmClassAcknowledgementBitAddress
+AlarmClass
+TriggerTag	AlarmTextPlcAcknowledgementBitAddressTriggerBitAddress###SearchFilterIdsSizeTypeCommunicationTypeTagTagDataTypeDefaultValueInfoTextJobEvent	CycleUnit	CycleTimePictureTextCommentNumber	ShortName
+LogoutTimeTitleLanguageVersion###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeSCL CodeConstant nameEvent classNetwork commentInstance DBAuthorFamilyUser-defined IDDatatypeAddressValueGroupUnit	BackColor	GridColorTemplate	FunctionsDataTypeTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCodingPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueAddressAccessMode
+ConnectionAdaptPicture
+AutoSizingBackFillStyleBorderColor	EdgeStyleFlashingTransparentColorColorEndStyle	FillStyleLineEndShapeStyle
+StartStyleStyleBorderBackColorFont	ForeColorHorizontalAlignmentTextOrientationVerticalAlignmentFirstGradientColor
+FocusColorHorizontalPictureAlignmentMiddleGradientColorModePictureAutoSizingSecondGradientColorTextOffTextOnVerticalPictureAlignmentAboveUpperLimitColorBelowLowerLimitColorCaptionColorCaptionFontCaptionTextHelpTextInnerBackColorOffInnerBackColorOn
+PictureOff	PictureOnSwitchOrientationPropertyNameTagValueForPropertyTagPageUITypeEditorBitPositionUITypeEditorTagExpressionUITypeEditorStartvalueUITypeEditorEndvalue
+DataFormatFormatPatternAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextGridlineColorLayerSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeRangeFromToProcessValuePictureListScrollBarOrientationEvenRowBackColorSelectBackColorSelectForeColorTextListCenterColorDangerLowerRangeColorDangerRangeColor	DialColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningLowerRangeColorWarningRangeColorAuthorizationComboboxFontDataRecordNameCaptionDataRecordNrCaptionEntryNameCaption
+HeaderFontRecipeRecipeNameCaptionRecipeNrCaptionStatuslineFontTableGridlineColorTag4DataRecordTextualObjectsBorderBackColorTextualObjectsBorderColorTextualObjectsEdgeStyleValueCaption
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityPreCodeHeaderCodeFooter###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarColorBarOrientationBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption
+LabelColorPositionFontScalePositionThumbBackColor	TickStyle
