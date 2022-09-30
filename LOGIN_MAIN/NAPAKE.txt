@@ -1,0 +1,34 @@
+LOGIN - PLC
+###################################
+
+RESET TIPKA - PLC nima INPUTA (PLC innput NOK???), LUČKA - MODRA - KAM POVEZANO? NA PLC ni Inputa
+
+RESET VARNOSTI VRAT - 17K6 - aktivacija? 
+
+
+IZKLOP v SILI KANAL -> PLC
+VARNOST VRAT 	    -> PLC
+
+Hlajenje Excentra NOK -> rele vklopi - > motor ne deluje OK?
+
+CentralnoMazanje :
+Optokoplerji : 2 NOK 
+ PLC I-0.0 - I 1.5    Q 0.0 - Q 1.1
+ DI  I-8.0 - 9.7
+ DQ  Q12.0 - 13.7
+
+
+NASTAVLJIV_IZHOD 1-4 NOK
+IZPIHOVANJE          NOK
+  
+NAPAKA ODVIJALNE - POGLEJ INPUT
+
+FREKVENČNIK -> ON/OFF - konfiguracija? - je bilo kaj spremenjeno? - kako je povezano?
+
+NASTAVLJIVI_IZHODI - NE DELUJEJO -> LUMBERG POVEZAVA!
+IZPIHOVANJE NE DELUJE -> POVEZAVA!
+
+
+PRITISK HIDRAVLIKE - Dia.8
+
+Lučka modra - izhod neaktiven!
